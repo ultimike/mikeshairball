@@ -1,0 +1,15 @@
+{
+    "name": "ultimike/hairball",
+    "description": "My first Composer project!",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Anello",
+            "email": "manello@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^4.2"
+    }
+}
